@@ -69,4 +69,29 @@ public class Student {
 
     public String getIsDualDegree() { return isDualDegree; }
     public void setIsDualDegree(String isDualDegree) { this.isDualDegree = isDualDegree; }
+    
+    public boolean removeTakenCourse(String courseNameOrCode) {
+        // 입력받은 검색어의 모든 공백(띄어쓰기)을 제거
+        String target = courseNameOrCode.replaceAll("\\s+", "");
+
+        for (int i = 0; i < courseCount; i++) {
+            Course c = takenCourses[i].getCourse();
+            
+            // 저장된 과목 코드와 과목명에서도 공백을 전부 제거
+            String savedCode = c.getCourseCode().replaceAll("\\s+", "");
+            String savedName = c.getLectureName().replaceAll("\\s+", "");
+            
+            // 공백이 제거된 상태의 문자열끼리 비교
+            if (savedCode.equals(target) || savedName.equals(target)) {
+                // 일치하면 삭제 후 배열 당기기
+                for (int j = i; j < courseCount - 1; j++) {
+                    takenCourses[j] = takenCourses[j + 1];
+                }
+                takenCourses[courseCount - 1] = null; 
+                courseCount--; 
+                return true; 
+            }
+        }
+        return false; 
+    }
 }

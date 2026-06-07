@@ -34,7 +34,7 @@ public class GraduationApp {
         while (true) {
             System.out.println("========== 졸업요건 충족 여부 판단 프로그램 ==========");
             System.out.println("1. 학생 정보 입력");
-            System.out.println("2. 수강 과목 입력");
+            System.out.println("2. 수강 과목 관리");
             System.out.println("3. 졸업요건 확인");
             System.out.println("0. 종료");
             System.out.print("메뉴 선택: ");
@@ -139,57 +139,127 @@ public class GraduationApp {
                     continue;
                 }
 
-                // getValidInt() 도입으로 불필요해진 버퍼 비우기 코드 제거됨
-
                 while (true) {
-                    System.out.print("과목명 입력(exit 입력 시 종료): ");
-                    String code = sc.nextLine().trim();
-
-                    if (code.equalsIgnoreCase("exit")) {
-                        break;
-                    }
-
-                    Course course = CourseDB.findCourse(code);
-
-                    if (course == null) {
-                        System.out.println("해당 과목을 찾을 수 없습니다.");
-                        continue;
-                    }
+                    System.out.println("\n========== 수강 과목 관리 ==========");
+                    System.out.println("1. 수강 과목 추가");
+                    System.out.println("2. 수강 내역 확인");
+                    System.out.println("3. 수강 과목 삭제");
+                    System.out.println("0. 이전 메뉴로");
+                    System.out.print("메뉴 선택: ");
                     
-                    boolean isDuplicate = false;
-                    for (int i = 0; i < student.getCourseCount(); i++) {
-                        Course taken = student.getTakenCourses()[i].getCourse();
-                        if (taken.getCourseCode().equals(course.getCourseCode()) ||
-                            taken.getLectureName().equals(course.getLectureName())) {
-                            isDuplicate = true;
-                            break;
+                    int subMenu = getValidInt(sc);
+
+                    if (subMenu == 1) { // 1. 과목 추가
+                        while (true) {
+                            System.out.print("추가할 과목명 또는 코드 입력(exit 입력 시 종료): ");
+                            String code = sc.nextLine().trim();
+
+                            if (code.equalsIgnoreCase("exit")) {
+                                break;
+                            }
+
+                            Course course = CourseDB.findCourse(code);
+
+                            if (course == null) {
+                                System.out.println("해당 과목을 찾을 수 없습니다.");
+                                continue;
+                            }
+                            
+                            boolean isDuplicate = false;
+                            for (int i = 0; i < student.getCourseCount(); i++) {
+                                Course taken = student.getTakenCourses()[i].getCourse();
+                                if (taken.getCourseCode().equals(course.getCourseCode()) ||
+                                    taken.getLectureName().equals(course.getLectureName())) {
+                                    isDuplicate = true;
+                                    break;
+                                }
+                            }
+
+                            if (isDuplicate) {
+                                System.out.println("이미 추가된 과목입니다.");
+                                continue;
+                            }
+                            
+                            String grade = "";
+                            while (true) {
+                                System.out.print("성적 입력(A+, A0, A-, B+, B0, B-, C+, C0, C-, D+, D0, D-, F, P, NP): ");
+                                grade = sc.nextLine().trim().toUpperCase();
+
+                                if (grade.equals("A+") || grade.equals("A0") || grade.equals("A-") ||
+                                    grade.equals("B+") || grade.equals("B0") || grade.equals("B-") ||
+                                    grade.equals("C+") || grade.equals("C0") || grade.equals("C-") ||
+                                    grade.equals("D+") || grade.equals("D0") || grade.equals("D-") ||
+                                    grade.equals("F") || grade.equals("P") || grade.equals("NP")) {
+                                    break;
+                                } else {
+                                    System.out.println("잘못된 입력입니다. 정확한 성적을 다시 입력해주세요.");
+                                }
+                            }
+
+                            student.addTakenCourse(new TakenCourse(course, grade));
+                            System.out.println(course.getLectureName() + " 추가 완료");
                         }
-                    }
-
-                    if (isDuplicate) {
-                        System.out.println("이미 추가된 과목입니다.");
-                        continue;
-                    }
-                    
-                    String grade = "";
-                    while (true) {
-                        System.out.print("성적 입력(A+, A0, A-, B+, B0, B-, C+, C0, C-, D+, D0, D-, F, P, NP): ");
-                        grade = sc.nextLine().trim().toUpperCase();
-
-                        if (grade.equals("A+") || grade.equals("A0") || grade.equals("A-") ||
-                            grade.equals("B+") || grade.equals("B0") || grade.equals("B-") ||
-                            grade.equals("C+") || grade.equals("C0") || grade.equals("C-") ||
-                            grade.equals("D+") || grade.equals("D0") || grade.equals("D-") ||
-                            grade.equals("F") || grade.equals("P") || grade.equals("NP")) {
-                            break;
+                        
+                    } else if (subMenu == 2) { // 2. 내역 확인
+                        System.out.println("\n[ 현재 수강 내역: 총 " + student.getCourseCount() + "과목 ]");
+                        if (student.getCourseCount() == 0) {
+                            System.out.println("입력된 수강 과목이 없습니다.");
                         } else {
-                            System.out.println("잘못된 입력입니다. 정확한 성적을 다시 입력해주세요.");
+                            for (int i = 0; i < student.getCourseCount(); i++) {
+                                TakenCourse tc = student.getTakenCourses()[i];
+                                System.out.printf("- %s (%s) : %s\n", 
+                                        tc.getCourse().getLectureName(), 
+                                        tc.getCourse().getCourseCode(), 
+                                        tc.getGrade());
+                            }
                         }
+                        
+                    } else if (subMenu == 3) { // 3. 과목 삭제
+                        if (student.getCourseCount() == 0) {
+                            System.out.println("삭제할 수강 과목이 없습니다.");
+                            continue;
+                        }
+                        
+                        while (true) {
+                            // 삭제 중 모든 과목이 지워지면 자동으로 루프 탈출
+                            if (student.getCourseCount() == 0) {
+                                System.out.println("모든 수강 과목이 삭제되었습니다.");
+                                break;
+                            }
+                            
+                            System.out.print("삭제할 과목명 또는 코드 입력 (exit 입력 시 종료): ");
+                            String target = sc.nextLine().trim();
+                            
+                            // exit 입력 시 삭제 모드 종료
+                            if (target.equalsIgnoreCase("exit")) {
+                                break;
+                            }
+                            
+                            boolean isRemoved = student.removeTakenCourse(target);
+                            
+                            if (isRemoved) {
+                                System.out.println(target + " 과목이 수강 내역에서 삭제되었습니다.");
+                                
+                                // 삭제 성공 시 남은 수강 과목 리스트 출력
+                                System.out.println("\n[ 남은 수강 내역: 총 " + student.getCourseCount() + "과목 ]");
+                                for (int i = 0; i < student.getCourseCount(); i++) {
+                                    TakenCourse tc = student.getTakenCourses()[i];
+                                    System.out.printf("- %s (%s) : %s\n", 
+                                            tc.getCourse().getLectureName(), 
+                                            tc.getCourse().getCourseCode(), 
+                                            tc.getGrade());
+                                }
+                                System.out.println("--------------------------------");
+                            } else {
+                                System.out.println("입력하신 과목을 수강 내역에서 찾을 수 없습니다.");
+                            }
+                        }
+                        
+                    } else if (subMenu == 0) { // 0. 이전 메뉴
+                        break;
+                    } else {
+                        System.out.println("잘못된 메뉴입니다. 다시 선택해주세요.");
                     }
-
-                    student.addTakenCourse(new TakenCourse(course, grade));
-
-                    System.out.println(course.getLectureName() + " 추가 완료");
                 }
             }
 
