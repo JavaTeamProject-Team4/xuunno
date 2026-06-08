@@ -23,10 +23,13 @@ public class CourseDB {
         majorCourses.clear();
 
         // 프로젝트 내부의 data 폴더를 가리키는 상대 경로로 복구
-        if (major == 2) {
+        if (major == 1 || major == 2) {
             loadMajorFile("data/platform_software_courses.txt");
         } else if (major == 3) {
             loadMajorFile("data/ai_computing_courses.txt");
+        }
+    	else if (major == 4) {
+                loadMajorFile("data/global_software_courses.txt");
         } else {
             System.out.println("해당 전공의 전공 과목 파일이 아직 없습니다.");
         }

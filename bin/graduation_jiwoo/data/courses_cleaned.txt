@@ -1,0 +1,319 @@
+국어와 매체언어,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+실용화법,3,GENERAL,첨성인소양,NONE,예술과 표현,SDG
+중국어1,3,GENERAL,첨성인기초,외국어,NONE,NONE
+중국어2,3,GENERAL,첨성인기초,외국어,NONE,NONE
+교양한문,3,GENERAL,첨성인핵심,인문사회,언어와 문화,SDG
+실용한자,3,GENERAL,첨성인소양,NONE,지역과 세계,SDG
+시사영어,3,GENERAL,첨성인소양,NONE,지역과 세계,SDG
+프랑스어1,3,GENERAL,첨성인기초,외국어,NONE,NONE
+프랑스어2,3,GENERAL,첨성인기초,외국어,NONE,NONE
+독일어1,3,GENERAL,첨성인기초,외국어,NONE,NONE
+독일어2,3,GENERAL,첨성인기초,외국어,NONE,NONE
+일어 I,3,GENERAL,첨성인기초,외국어,NONE,NONE
+일어 II,3,GENERAL,첨성인기초,외국어,NONE,NONE
+영어 I,3,GENERAL,첨성인기초,외국어,NONE,NONE
+영어 II,3,GENERAL,첨성인기초,외국어,NONE,NONE
+러시아어 I,3,GENERAL,첨성인기초,외국어,NONE,NONE
+러시아어 II,3,GENERAL,첨성인기초,외국어,NONE,NONE
+스페인어,3,GENERAL,첨성인기초,외국어,NONE,NONE
+베트남어,3,GENERAL,첨성인기초,외국어,NONE,NONE
+스페인어 2,3,GENERAL,첨성인기초,외국어,NONE,NONE
+한국사,3,GENERAL,첨성인핵심,인문사회,역사와철학,SDG
+동양의역사와문화,3,GENERAL,첨성인핵심,인문사회,역사와철학,NONE
+서양의역사와문화,3,GENERAL,첨성인핵심,인문사회,역사와철학,SDG
+철학의이해,3,GENERAL,첨성인핵심,인문사회,역사와철학,SDG
+논리와 비판적 사고,3,GENERAL,첨성인기초,사고교육,NONE,NONE
+고고학의 이해,3,GENERAL,첨성인핵심,인문사회,역사와철학,SDG
+철학사상사,3,GENERAL,첨성인핵심,인문사회,역사와철학,NONE
+한국의문학과영화,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+자원봉사활동,3,GENERAL,첨성인소양,NONE,지역과 세계,SDG
+정치학의 이해,3,GENERAL,첨성인핵심,인문사회,인간과사회,NONE
+인간과성,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+현대사회와 윤리,3,GENERAL,첨성인핵심,인문사회,역사와철학,SDG
+결혼과 가족관계,3,GENERAL,첨성인소양,NONE,생활과 건강,SDG
+심리학의이해,3,GENERAL,첨성인핵심,인문사회,인간과사회,NONE
+매스컴과 사회,3,GENERAL,첨성인핵심,인문사회,인간과사회,NONE
+경제의이해,3,GENERAL,첨성인핵심,인문사회,인간과사회,NONE
+경영의이해,3,GENERAL,첨성인핵심,인문사회,인간과사회,NONE
+회계와사회생활,3,GENERAL,첨성인핵심,인문사회,인간과사회,NONE
+현대사회와법,3,GENERAL,첨성인핵심,인문사회,인간과사회,NONE
+현대사회와행정,3,GENERAL,첨성인핵심,인문사회,인간과사회,NONE
+문화인류학의이해,3,GENERAL,첨성인핵심,인문사회,언어와 문화,SDG
+프랑스문화의이해,3,GENERAL,첨성인소양,NONE,지역과 세계,SDG
+영상으로보는독일문화,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+인간과자연,3,GENERAL,첨성인핵심,자연과학,자연과 환경,SDG
+자연과학의이해,3,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+과학사의이해,3,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+화학의신비,3,GENERAL,첨성인핵심,자연과학,자연과 환경,NONE
+자연과환경,3,GENERAL,첨성인핵심,자연과학,자연과 환경,NONE
+생명의신비,3,GENERAL,첨성인핵심,자연과학,자연과 환경,NONE
+생활속의통계,3,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+농업과환경,3,GENERAL,첨성인핵심,자연과학,자연과 환경,NONE
+생활과원예,3,GENERAL,첨성인핵심,자연과학,자연과 환경,SDG
+아름다운 지구,3,GENERAL,첨성인핵심,자연과학,자연과 환경,NONE
+중국문학의이해,3,GENERAL,첨성인핵심,인문사회,언어와 문화,SDG
+일본문학의 이해,3,GENERAL,첨성인핵심,인문사회,언어와 문화,SDG
+프랑스문학의 이해,3,GENERAL,첨성인핵심,인문사회,언어와 문화,SDG
+독일문학의 이해,3,GENERAL,첨성인핵심,인문사회,언어와 문화,NONE
+러시아문학의 이해,3,GENERAL,첨성인핵심,인문사회,언어와 문화,NONE
+국악의 이해,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+지구과학,3,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+현대사회와 스포츠,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+골프,1,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+호신술,1,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+캠핑,1,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+인간과주거문화,3,GENERAL,첨성인소양,NONE,생활과 건강,SDG
+현대인의 식생활,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+현대인과 패션,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+젠더와 사회,3,GENERAL,첨성인핵심,인문사회,인간과사회,NONE
+C/C++프로그래밍기초,3,GENERAL,첨성인기초,소프트웨어,NONE,NONE
+대학글쓰기,3,GENERAL,첨성인기초,글쓰기,NONE,NONE
+심화글쓰기,3,GENERAL,첨성인기초,글쓰기,NONE,NONE
+명저읽기와 토론,3,GENERAL,첨성인기초,독서와토론,NONE,NONE
+수학 I,3,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+수학 II,3,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+물리학 I,3,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+물리학 II,3,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+화학 I,3,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+화학 II,3,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+통계학,3,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+물리학실험 I,1,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+물리학실험 II,1,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+화학실험 I,1,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+화학실험 II,1,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+생물학실험 I,1,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+생물학실험 II,1,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+인문사회수학,3,GENERAL,첨성인기초,수리,NONE,NONE
+일반생명과학Ⅰ,3,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+일반생명과학Ⅱ,3,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+한국사상과 윤리,3,GENERAL,첨성인핵심,인문사회,역사와철학,NONE
+한국문학의 이해,3,GENERAL,첨성인핵심,인문사회,언어와 문화,NONE
+논쟁술,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+대중음악을 통한 미국문화와 영어표현법,3,GENERAL,첨성인소양,NONE,예술과 표현,SDG
+법과 경제,3,GENERAL,첨성인핵심,인문사회,인간과사회,NONE
+비만과 건강,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+웹 프로그래밍 기초,3,GENERAL,첨성인기초,소프트웨어,NONE,NONE
+파이선 프로그래밍,3,GENERAL,첨성인기초,소프트웨어,NONE,NONE
+독서로 세상보기,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+Korean Language I,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+Korean Language II,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+Modern Korean Society,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+Korean Language III,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+Korean Language Ⅳ,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+Korean LanguageⅤ,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+Korean Language Ⅵ,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+Cultural Life in Korea,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+Academic Writing & Study Skills,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+Business Communication & Writing Skills,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+Practical Korean Writing,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+Practical Korean Listening,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+Korea in Motion: Korean Film and the Korean Wave,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+South Korea and International Relations,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+Academic Korean Speaking,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+Academic Korean Reading,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+인공지능의 이해,3,GENERAL,첨성인기초,소프트웨어,NONE,NONE
+빅데이터 기초 실습,3,GENERAL,첨성인기초,소프트웨어,NONE,NONE
+생활 안전을 위한 공간적 사고,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+디자인과 크리에이티브,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+체력 컨디셔닝,2,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+20세기 중국의 이해,3,GENERAL,첨성인소양,NONE,지역과 세계,SDG
+실용영어1,2,GENERAL,첨성인기초,실용영어,NONE,NONE
+실용영어2,2,GENERAL,첨성인기초,실용영어,NONE,NONE
+비즈니스영어,2,GENERAL,첨성인기초,실용영어,NONE,NONE
+외국인을 위한 한국어 문법,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+러시아 문화 읽기,3,GENERAL,첨성인소양,NONE,지역과 세계,SDG
+우주와 생명,3,GENERAL,첨성인핵심,자연과학,자연과 환경,NONE
+팔공산과 대구 문화의 이해,3,GENERAL,첨성인소양,NONE,지역과 세계,SDG
+영화를 통한 스포츠 읽기,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+전통문화체험,3,GENERAL,첨성인소양,NONE,생활과 건강,SDG
+인물로 본 서양사,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+대구지리기행,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+친환경적 삶과 건축,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+현대예술의 표현방식과 이해,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+인도를 읽는 열두개의 시선,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+역사로 보는 서양기업과 기업문화,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+일본어 스피치와 프리젠테이션,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+여성과 중국정치의 역사,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+르네상스 문학과 미술,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+Discussions in English,2,GENERAL,첨성인기초,실용영어,NONE,NONE
+한국의 언어와 문학,3,GENERAL,첨성인핵심,인문사회,언어와 문화,SDG
+신화와 상상력,3,GENERAL,첨성인소양,NONE,예술과 표현,SDG
+동화의 세계,3,GENERAL,첨성인소양,NONE,예술과 표현,SDG
+인간과 언어,3,GENERAL,첨성인핵심,인문사회,언어와 문화,SDG
+내면의 수사학,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+논어에서 배우는 삶의 지혜,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+과학기술과 윤리,3,GENERAL,첨성인핵심,인문사회,역사와철학,SDG
+아름다움이란 무엇인가,3,GENERAL,첨성인핵심,인문사회,역사와철학,NONE
+문화로 읽는 대중가요의 흐름,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+기독교와 인류문명,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+영상으로보는중국문화,3,GENERAL,첨성인소양,NONE,예술과 표현,SDG
+러시아, 러시아인,3,GENERAL,첨성인소양,NONE,지역과 세계,SDG
+영국의 역사와 문화,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+한국문학과 사회,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+현대지리학의 이해,3,GENERAL,첨성인핵심,인문사회,인간과사회,NONE
+인간의 삶과 사회복지,3,GENERAL,첨성인핵심,인문사회,인간과사회,SDG
+교육학의이해,3,GENERAL,첨성인핵심,인문사회,인간과사회,NONE
+패션과 사회,3,GENERAL,첨성인소양,NONE,예술과 표현,SDG
+시사생명과학,3,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+생물다양성,3,GENERAL,첨성인핵심,자연과학,자연과 환경,SDG
+생명자원과 환경,3,GENERAL,첨성인핵심,자연과학,자연과 환경,NONE
+인간생활과 동물,3,GENERAL,첨성인핵심,자연과학,자연과 환경,NONE
+축산식품과 건강,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+지구시스템의 이해,3,GENERAL,첨성인핵심,자연과학,자연과 환경,SDG
+우주의 이해,3,GENERAL,첨성인핵심,자연과학,자연과 환경,NONE
+중국의 사상과 윤리,3,GENERAL,첨성인핵심,인문사회,역사와철학,NONE
+비즈니스 프랑스어,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+비즈니스 독일어,3,GENERAL,첨성인소양,NONE,지역과 세계,SDG
+비즈니스 중국어,3,GENERAL,첨성인소양,NONE,지역과 세계,SDG
+비즈니스 일본어,3,GENERAL,첨성인소양,NONE,지역과 세계,SDG
+비즈니스 러시아어,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+아랍어,3,GENERAL,첨성인기초,외국어,NONE,NONE
+프랑스동화의 이해,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+문학과 영화, 그리고 나,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+영남학과 지방학,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+일본대중문화의 이해,3,GENERAL,첨성인소양,NONE,예술과 표현,SDG
+과학과 문화,3,GENERAL,첨성인소양,NONE,정보와 산업,NONE
+중국정치이야기,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+국제시사해설,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+인문과 예술로 만나는 삶과 인성,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+인간발달과 행복,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+평생학습사회와 인간교육,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+결혼준비 교육,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+성격의 재발견,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+예비부모교육,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+인간관계 성공 레슨,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+동서고전의 만남,3,GENERAL,첨성인핵심,인문사회,언어와 문화,NONE
+독도의 자연알기,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+성의진화,3,GENERAL,첨성인핵심,자연과학,자연과 환경,NONE
+이미지 메이킹 & 패션 코디네이션,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+웰빙과 건강,3,GENERAL,첨성인소양,NONE,생활과 건강,SDG
+통일과 남북한 관계의 이해,3,GENERAL,첨성인핵심,인문사회,인간과사회,NONE
+음식문화와 건강,3,GENERAL,첨성인소양,NONE,생활과 건강,SDG
+식생활과 사회 Issue,3,GENERAL,첨성인소양,NONE,지역과 세계,SDG
+디자인? 디자인!,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+디자인과 현대문화,3,GENERAL,첨성인핵심,인문사회,언어와 문화,NONE
+음악, 철학 그리고 문화,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+영화와 패션철학,3,GENERAL,첨성인소양,NONE,예술과 표현,SDG
+현대디자인사,3,GENERAL,첨성인소양,NONE,예술과 표현,SDG
+공연예술의 이해,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+한국어로 보는 한국문화,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+생활테니스,1,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+댄스스포츠,1,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+생활배드민턴,1,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+생활수영,1,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+생활스키,1,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+한국의 선비문화와 고전,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+세계문화의 이해,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+인물따라 떠나는 한국사 기행,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+영화로 철학하기,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+문화 속의 상상력과 창의력,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+영상으로 보는 일본문학,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+데이터로 이해하는 일본인,일본어,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+영화로 만나는 러시아와 동유럽 문화,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+대중음악과 사회,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+세계화시대의 여가에 대한 이해,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+유비쿼터스 정보와 미래사회,3,GENERAL,첨성인소양,NONE,정보와 산업,NONE
+형태구성 및 조형심리,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+스토리 미술,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+이태리어,3,GENERAL,첨성인기초,외국어,NONE,NONE
+행복한 삶과 가족,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+웰빙, 웰에이징 그리고 웰다잉,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+정보학의 이해,3,GENERAL,첨성인핵심,인문사회,인간과사회,NONE
+복현모둠강좌,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+국제개발협력의 이해,3,GENERAL,첨성인소양,NONE,지역과 세계,SDG
+옛이야기의 전통과 아름다움,3,GENERAL,첨성인소양,NONE,지역과 세계,SDG
+기후변화의 이해,3,GENERAL,첨성인핵심,자연과학,자연과 환경,NONE
+미래사회와 교육,3,GENERAL,첨성인핵심,인문사회,인간과사회,SDG
+행정법의 이해,3,GENERAL,첨성인핵심,인문사회,인간과사회,SDG
+민법학의 기초,3,GENERAL,첨성인핵심,인문사회,인간과사회,NONE
+노동법의 이해,3,GENERAL,첨성인핵심,인문사회,인간과사회,NONE
+정보사회와 지식재산,3,GENERAL,첨성인소양,NONE,정보와 산업,NONE
+식품위생의 이해,3,GENERAL,첨성인소양,NONE,생활과 건강,SDG
+EU and Global Development,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+독도학,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+글로벌· 다문화 사회와 미래교육,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+글로벌· 다문화 인재 리더십,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+글로벌· 다문화 현장 인턴십,1,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+영화 속의 생명과학과 4차 산업,3,GENERAL,첨성인소양,NONE,정보와 산업,NONE
+실용금융,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+4차 산업혁명과 에너지 정책,3,GENERAL,첨성인소양,NONE,정보와 산업,SDG
+건강육아 레시피,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+환경문제와 국가,3,GENERAL,첨성인소양,NONE,지역과 세계,SDG
+감염 미생물의 세계,3,GENERAL,첨성인핵심,자연과학,자연과 환경,NONE
+수학 리마인드,3,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+Transnational Literature & Film,3,GENERAL,첨성인핵심,인문사회,언어와 문화,SDG
+오픈소스 소프트웨어 기초,3,GENERAL,첨성인기초,소프트웨어,NONE,NONE
+동양철학과 현대사회,3,GENERAL,첨성인핵심,인문사회,역사와철학,SDG
+아시아 도시의 인문 여행,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+한중 문화 콘텐츠 개발과 교류,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+식품의 예술,3,GENERAL,첨성인소양,NONE,생활과 건강,SDG
+정보기술 윤리의 이해,3,GENERAL,첨성인소양,NONE,정보와 산업,NONE
+일상 속의 물리,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+컴퓨터제작,3,GENERAL,첨성인소양,NONE,정보와 산업,NONE
+스페인·라틴아메리카의 역사와 문화,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+토론의 준비와 실제,3,GENERAL,첨성인소양,NONE,예술과 표현,SDG
+신소재의 미래활용: 플라스틱,3,GENERAL,첨성인소양,NONE,정보와 산업,SDG
+상대성이론과 양자역학 입문,3,GENERAL,첨성인핵심,자연과학,과학과기술,NONE
+반려동물의 해부생리학적 이해,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+자동차구조 및 기술문화의 이해,3,GENERAL,첨성인소양,NONE,정보와 산업,NONE
+인문사회 코딩기초,3,GENERAL,첨성인기초,소프트웨어,NONE,NONE
+자연과학 코딩기초,3,GENERAL,첨성인기초,소프트웨어,NONE,NONE
+빅데이터와 R프로그래밍,3,GENERAL,첨성인기초,소프트웨어,NONE,NONE
+인문사회 기초수학,3,GENERAL,첨성인기초,수리,NONE,NONE
+인문사회 기초통계,3,GENERAL,첨성인기초,기초과학,NONE,NONE
+인문사회 기초생명과학,3,GENERAL,첨성인기초,기초과학,NONE,NONE
+인문사회 기초물리학 및 화학,3,GENERAL,첨성인기초,기초과학,NONE,NONE
+인문사회 기초지구과학,3,GENERAL,첨성인기초,기초과학,NONE,NONE
+기초수학2,3,GENERAL,첨성인기초,수리,NONE,NONE
+기초수학1,3,GENERAL,첨성인기초,수리,NONE,NONE
+물리학입문,3,GENERAL,첨성인기초,기초과학,NONE,NONE
+화학입문,3,GENERAL,첨성인기초,기초과학,NONE,NONE
+생명과학입문,3,GENERAL,첨성인기초,기초과학,NONE,NONE
+리더십승마,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+인공지능과 케글분석,3,GENERAL,첨성인소양,NONE,정보와 산업,NONE
+인간과 AI 기술,3,GENERAL,첨성인소양,NONE,정보와 산업,NONE
+인공지능의 책임성과 윤리,3,GENERAL,첨성인소양,NONE,정보와 산업,NONE
+동아시아 문화리터러시,3,GENERAL,첨성인소양,NONE,지역과 세계,SDG
+지속가능한 미래를 위한 다양성과 세계시민성,3,GENERAL,첨성인소양,NONE,지역과 세계,SDG
+문학으로 배우는 교양법률,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+중국의 전통문화와 현대,3,GENERAL,첨성인핵심,인문사회,역사와철학,NONE
+에듀테크,3,GENERAL,첨성인소양,NONE,정보와 산업,SDG
+미래사회와 교사 역량,3,GENERAL,첨성인소양,NONE,정보와 산업,NONE
+환경교육특강,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+해양생태학으로의 산책,3,GENERAL,첨성인소양,NONE,지역과 세계,SDG
+현대사회와 인권,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+사회학적 상상력과 현대사회,3,GENERAL,첨성인핵심,인문사회,인간과사회,NONE
+인류사와 인류세,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+반려동물과 함께하는 삶의 이해,3,GENERAL,첨성인소양,NONE,생활과 건강,SDG
+지속가능발전교육과 삶의 실천,3,GENERAL,첨성인소양,NONE,지역과 세계,SDG
+현대 도시 모빌리티의 풍경,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+IT와 예술,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+운동과 뇌,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+ESG와 발명,3,GENERAL,첨성인소양,NONE,정보와 산업,NONE
+스마트 기술의 이해와 활용,3,GENERAL,첨성인소양,NONE,정보와 산업,SDG
+날씨와 생활,3,GENERAL,첨성인소양,NONE,생활과 건강,SDG
+인공지능 활용,3,GENERAL,첨성인기초,소프트웨어,NONE,NONE
+인류세 생태문화와 평화학,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+고전 속 사랑앓이,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+K-POP과 글로벌 음악 산업,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+인공지능을 위한 선형대수,3,GENERAL,첨성인소양,NONE,정보와 산업,NONE
+한국사 속의 가족과 여성,3,GENERAL,첨성인소양,NONE,생활과 건강,SDG
+지속가능한 의생활 문화,3,GENERAL,첨성인소양,NONE,생활과 건강,SDG
+인류의 지속가능한 성장은 가능한가? : SDGs의 이해와 실천,3,GENERAL,첨성인소양,NONE,지역과 세계,SDG
+펫 휴머나이제이션의 이해,3,GENERAL,첨성인소양,NONE,생활과 건강,SDG
+글로벌 이슈와 정의로운 국제관계: 전쟁, 난민, 빈곤, 기후 위기,3,GENERAL,첨성인소양,NONE,지역과 세계,SDG
+글로벌 통상의 이해,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+인간과 지구시스템과학 1,3,GENERAL,첨성인핵심,NONE,자연과 환경,NONE
+인간과 지구시스템과학 2,3,GENERAL,첨성인핵심,NONE,자연과 환경,NONE
+건강한 뇌와 행복한 삶,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+AI·디지털 이야기 창작과 공유 및 활용,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+미래교육과 글로벌 트렌드,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+생성형AI의 이해와 활용,3,GENERAL,첨성인소양,NONE,정보와 산업,NONE
+열린 대구, 글로벌 공생,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+한국문화와 대구지역 이해,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+Academic Korean Listening,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
+명상과 치유,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+도자기의 세계,3,GENERAL,첨성인소양,NONE,예술과 표현,NONE
+생명의 시작과 끝들의 문화적 이해,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+건강과 질병의 사회문화적 이해,3,GENERAL,첨성인소양,NONE,생활과 건강,NONE
+여행과 행복,3,GENERAL,첨성인소양,NONE,지역과 세계,NONE
